@@ -9,55 +9,55 @@ object DataSource {
                 image = R.drawable.bella,
                 name = "Buddy",
                 age = 5,
-                hobbies = "Playing fetch"
+                hobbies = R.string.dog_description_1
             ),
             Dog(
                 image = R.drawable.faye,
                 name = "Molly",
                 age = 3,
-                hobbies = "Chasing squirrels"
+                hobbies = R.string.dog_description_2
             ),
             Dog(
                 image = R.drawable.frankie,
                 name = "Max",
                 age = 2,
-                hobbies = "Running in the park"
+                hobbies =R.string.dog_description_3
             ),
             Dog(
                 image = R.drawable.koda,
                 name = "Daisy",
                 age = 4,
-                hobbies = "Cuddling"
+                hobbies = R.string.dog_description_4
             ),
             Dog(
                 image = R.drawable.leroy,
                 name = "Rocky",
                 age = 6,
-                hobbies = "Playing tug-of-war"
+                hobbies = R.string.dog_description_5
             ),
             Dog(
                 image = R.drawable.lola,
                 name = "Lucy",
                 age = 1,
-                hobbies = "Chewing shoes"
+                hobbies = R.string.dog_description_6
             ),
             Dog(
                 image = R.drawable.moana,
                 name = "Bailey",
                 age = 7,
-                hobbies = "Digging holes"
+                hobbies = R.string.dog_description_7
             ),
             Dog(
                 image = R.drawable.nox,
                 name = "Duke",
                 age = 8,
-                hobbies = "Barking at the mailman"
+                hobbies = R.string.dog_description_8
             ),
             Dog(
                 image = R.drawable.tzeitel,
                 name = "Luna",
                 age = 9,
-                hobbies = "Chasing the mailman"
+                hobbies = R.string.dog_description_9
             ),
 
             )
